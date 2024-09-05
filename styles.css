@@ -1,0 +1,136 @@
+
+.spd {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    height: 100vh;
+    
+    
+}
+
+
+.gcc {
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    display: flex;
+    position: absolute;
+    left: 355px;
+    bottom: 315px;
+    width: 450px;
+    height: 23px;
+    
+}
+
+.buto {
+    padding: 8px;
+    left: 450px;
+    bottom: 250px;
+    display: flex;
+    position: absolute;
+}
+
+.butt {
+    padding: 8px;
+    left: 590px;
+    bottom: 250px;
+    display: flex;
+    position: absolute;
+
+
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    margin-right: 25px;
+    margin-top: 15px;
+    max-height: max-content;
+}
+
+.imgch {
+    padding: 8px;
+    left: 755px;
+    bottom: 320px;
+    display: flex;
+    position: absolute;
+
+
+}
+
+.butb {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 8px;
+    display: flex;
+    position: absolute;
+    right: 420px;
+    bottom: 220px;
+
+
+}
+
+.ct01 {
+    border: 1px solid;
+    display: flex;
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    bottom: 410px;
+    left: 445px;
+   
+
+}
+.ct02 {
+    border: 1px solid;
+    display: flex;
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    bottom: 370px;
+    left: 445px;
+   
+
+}
+.ct03 {
+    border: 1px solid;
+    display: flex;
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    bottom: 330px;
+    left: 445px;
+   
+
+}
+.ct04 {
+    border: 1px solid;
+    display: flex;
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    bottom: 290px;
+    left: 445px;
+   
+
+}
+ul {
+    text-decoration: none;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+
+li {
+    text-decoration: none;
+    margin-right: 50px;
+    margin-top: 25px;
+
+
+}
+h2{
+
+    right: 50px;
+
+
+}
